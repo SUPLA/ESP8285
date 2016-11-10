@@ -8,7 +8,7 @@ Flash Size: 1MByte
 Flash speed: 40Mhz
 SPI Mode: DOUT
 
-Youtube: https://www.youtube.com/watch?v=JdeZ7tMgeNw
+Youtube: https://www.youtube.com/watch?v=ouy3uUTe4cg
 
 In order to enter or change the settings, you need to:
 
