@@ -1,7 +1,7 @@
 SUPLA FOR ITEAD SONOFF Touch
 
-sonoff_touch_eagle.flash.bin-------->0x00000
-sonoff_touch_eagle.irom0text.bin---->0x40000
+boot_v1.5.bin-------->0x00000
+sonoff_touch_user1.1024.new.2.bin---->0x01000
 
 BAUDRATE: 115200
 Flash Size: 1MByte
