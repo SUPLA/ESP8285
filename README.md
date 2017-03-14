@@ -2,8 +2,8 @@
 Supla for ESP8285
 
 Sources:
-https://github.com/SUPLA/supla-core/tree/master/ESP8266_IOT_1.8-BETA
+https://github.com/SUPLA/supla-core/tree/ESP8266_IOT_2.0/ESP8266_IOT
 
 Sonoff Touch
-https://github.com/SUPLA/supla-core/blob/master/ESP8266_IOT_1.8-BETA/include/board/sonoff_touch.c
-https://github.com/SUPLA/supla-core/blob/master/ESP8266_IOT_1.8-BETA/include/board/sonoff_touch.h
+https://github.com/SUPLA/supla-core/tree/ESP8266_IOT_2.0/ESP8266_IOT/include/board/sonoff_touch.c
+https://github.com/SUPLA/supla-core/tree/ESP8266_IOT_2.0/ESP8266_IOT/include/board/sonoff_touch.h
