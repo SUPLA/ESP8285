@@ -6,5 +6,5 @@ https://github.com/SUPLA/supla-espressif-esp
 <br><br>
 
 Sonoff Touch<br>
-https://github.com/SUPLA/supla-core/tree/ESP8266_IOT_2.0/ESP8266_IOT/include/board/sonoff_touch.c<br>
-https://github.com/SUPLA/supla-core/tree/ESP8266_IOT_2.0/ESP8266_IOT/include/board/sonoff_touch.h<br>
+https://github.com/SUPLA/supla-espressif-esp/src/include/board/sonoff_touch.c<br>
+https://github.com/SUPLA/supla-espressif-esp/src/include/board/sonoff_touch.h<br>
